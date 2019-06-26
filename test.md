@@ -1,6 +1,7 @@
 vulnhub DC-2 writeup
 
-#Enumeration
+# Enumeration
+
 root@parrot]─[/home/user]
 └──╼ #nmap -sV -sC -O -A 192.168.0.131
 Starting Nmap 7.70 ( https://nmap.org ) at 2019-06-26 10:03 UTC
