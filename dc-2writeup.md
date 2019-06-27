@@ -204,6 +204,6 @@ If you enjoyed this CTF, send me a tweet via \@DCAU7.
 
 root\@DC-2:\~\#
 
-**My experience: This is my third CTF, in terms of CTF ‘s, I enjoyed a lot in
+**My experience: This is my third CTF,but i am making the writeup for the first time in terms of CTF ‘s, I enjoyed a lot in
 solving this CTF, learned a lot of new things, amazing experience, CTF are the
 best way to learn new stuff in field of pentesting.**
