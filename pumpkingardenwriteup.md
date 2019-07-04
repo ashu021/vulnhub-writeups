@@ -116,7 +116,9 @@ continue connecting (yes/no)? yes Warning: Permanently added '[10.0.2.15]:3535'
   All remote connections to this machine are monitored and recorded
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| scarecrow\@10.0.2.15's password: Last login: Thu Jul 4 00:57:32 2019 from 10.0.2.5 scarecrow\@Pumpkin:\~\$ ls note.txt scarecrow\@Pumpkin:\~\$ cat note.txt          |
+| scarecrow\@10.0.2.15's password: Last login: Thu Jul 4 00:57:32 2019 from 10.0.2.5
+scarecrow\@Pumpkin:\~\$ ls note.txt 
+scarecrow\@Pumpkin:\~\$ cat note.txt          |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Oops!!! I just forgot; keys to the garden are with LordPumpkin(ROOT user)! Reach out to goblin and share this "Y0n\$M4sy3D1t" to secretly get keys from LordPumpkin. |
 
