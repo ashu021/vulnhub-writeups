@@ -85,7 +85,9 @@ http://10.0.2.15:1515/index.html (CODE:200\|SIZE:903)
 \---- Entering directory: http://10.0.2.15:1515/img/ ---- (!) WARNING: Directory
 IS LISTABLE. No need to scan it. (Use mode '-w' if you want to scan it anyway)
 
-| END_TIME: Thu Jul 4 08:44:50 2019 DOWNLOADED: 4612 - FOUND: 2 Dirb scan gives us some important directories and links to work with. And when I run the first link in browser I found a hidden \_secret folder where I got the clue.txt file. In that file there is a base 64 encrypted string, I decoded that string. It contains the username and password of one of the users. |
+| END_TIME: Thu Jul 4 08:44:50 2019 DOWNLOADED: 4612 - FOUND: 2
+
+Dirb scan gives us some important directories and links to work with. And when I run the first link in browser I found a hidden \_secret folder where I got the clue.txt file. In that file there is a base 64 encrypted string, I decoded that string. It contains the username and password of one of the users. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
